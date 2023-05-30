@@ -1,15 +1,9 @@
 # Pharmacy Manegement System
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
-Updates and bug fixes are done daily :100:.
+## 🦄 Features and Screenshots
 
-Star :star:  the repo to help the developers :innocent:
-
-
-## 🦄 Product Features and Screen Shots
-
-
+<img src="https://i.ibb.co/W0FKBk1/Screenshot-2020-08-30-at-00-03-31.png" > 
 
 <table>
   <tr>
@@ -23,7 +17,7 @@ Star :star:  the repo to help the developers :innocent:
   </tr>
  </table>
  
-<img src="https://i.ibb.co/W0FKBk1/Screenshot-2020-08-30-at-00-03-31.png" > 
+
 
 <table>
   <tr>
@@ -113,27 +107,42 @@ Star :star:  the repo to help the developers :innocent:
 7) Open your browser and navigate to `http://localhost:4200/`
 
 
-## 🚨 Development server
+### -> Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 Run `npm run start:serve` for a backend server. Navigate to `http://localhost:3000/`. 
 
-## 🚨 Code scaffolding
+### -> Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## 🚨 Build
+### -> Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## 🚨 Running unit tests
+### -> Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## 🚨 Running end-to-end tests
+### -> Running end-to-end tests
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## 🚨 Further help
+#
+## Author : Dixit Ghodadara [(Github Profile)](https://github.com/DixitGdev)
 
-To get more help on this please email "lalanachamika123@gmail.com" or feel free to open a issue
+## Contributing
+
+We welcome contributions from the community. Whether it's a bug report, new feature, correction, or additional documentation, we greatly appreciate your help. Please ensure your pull request adheres to our contribution guidelines.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+If you have any questions, feel free to contact us. We appreciate your feedback!
+
+## Acknowledgements
+
+We would like to thank the open source community for their continuous support and inspiration. We are always learning and improving, thanks to you.
