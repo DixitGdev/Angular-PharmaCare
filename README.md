@@ -3,7 +3,7 @@
 
 ## 🦄 Features and Screenshots
 
-<img src="https://i.ibb.co/W0FKBk1/Screenshot-2020-08-30-at-00-03-31.png" > 
+<img width="1680" alt="Screenshot-2020-08-30-at-00-03-31" src="https://github.com/DixitGdev/Angular-PharmaCare/assets/51261247/451886ed-e9b4-4515-bcb7-8d95031a0f29">
 
 <table>
   <tr>
@@ -36,7 +36,8 @@
     <td>Point Of Sales</td> 
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/1vCrYKk/Screenshot-2020-08-30-at-00-06-11.png"></td>
+    <td><img width="1680" alt="Screenshot-2020-08-30-at-00-06-11" src="https://github.com/DixitGdev/Angular-PharmaCare/assets/51261247/07b95f42-f4a3-49de-821d-c5b1dc1a7d17">
+</td>
   </tr>
  </table>
  
